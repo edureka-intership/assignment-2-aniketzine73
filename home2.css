@@ -1,0 +1,30 @@
+.head {
+    height: 420px;
+    /*width: 1660px;*/
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: cover;
+    background-image: url(./Images/homepageimg.png);
+}
+.btn1{
+    margin-right: 5px;
+    padding-top: 17px;
+}
+.ei {
+    font: normal normal 600 70px/106px Poppins;
+    letter-spacing: 0px;
+}
+.ei {
+    top: 81px;
+    left: 610px;
+    width: 147px;
+    height: 147px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    font-size: 120px;
+}
+.btn1{
+    top: 17px;
+}
+
